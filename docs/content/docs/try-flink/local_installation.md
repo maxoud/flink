@@ -147,7 +147,7 @@ You can also look at the timeline of the job execution:
 
 {{< img src="/fig/try-flink/timeline.png" alt="data flow timeline" >}}
 
-You have successfully ran a [Flink application]({{< ref "docs/concepts/glossary" >}}#ﬂink-application)! Feel free to select any other JAR archive from the __examples/__
+You have successfully run a [Flink application]({{< ref "docs/concepts/glossary" >}}#ﬂink-application)! Feel free to select any other JAR archive from the __examples/__
 folder or deploy your own job!
 
 # Summary
